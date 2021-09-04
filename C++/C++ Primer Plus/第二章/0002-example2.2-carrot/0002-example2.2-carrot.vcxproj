@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2227dd6f-0194-45df-be62-39df9c884998}</ProjectGuid>
-    <RootNamespace>CPrimerPlusCode</RootNamespace>
+    <ProjectGuid>{e2c95cb3-38fb-44e4-a315-e3b894544a9f}</ProjectGuid>
+    <RootNamespace>My0002example22carrot</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="0001-example2.1-first.c" />
+    <ClCompile Include="..\..\..\..\..\..\note\0002-example2.2-carrot.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
