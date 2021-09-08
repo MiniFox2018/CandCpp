@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\note\0002-example2.2-carrot.cpp">
+    <ClCompile Include="0002-example2.2-carrot.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -16,3 +16,4 @@ void simon(int n)
 	cout << "Smion says touch your toes" << n << "times." << endl;
 		 
 }
+//
