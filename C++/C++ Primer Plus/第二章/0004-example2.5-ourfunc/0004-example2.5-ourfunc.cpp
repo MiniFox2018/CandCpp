@@ -1,5 +1,5 @@
 #include<iostream>
-void simon(int);
+void simon(int);//使用自定义函数要先声明：用户定义的无返回值的函数
 int main(){
 	using namespace std;
 	simon(3);
