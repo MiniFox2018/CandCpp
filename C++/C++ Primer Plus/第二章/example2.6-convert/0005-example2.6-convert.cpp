@@ -1,5 +1,5 @@
-#include <iostream>
-int stonetolb(int);     // function prototype
+#include <iostream>//用户定义的有返回值的函数
+int stonetolb(int);     // 先函数声明
 int main()
 {
     using namespace std;
